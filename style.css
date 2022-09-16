@@ -1,5 +1,5 @@
 body {
-    background-color: #E9E9E9;
+    background-color: #c161a1;
     color: #333;
     font-family:"Lucida handwriting", "Snell Roundhand", "Helvetica Neue",Arial,Helvetica,sans-serif;
     font-size: 16px;
@@ -19,7 +19,7 @@ a.polaroid {
     padding: 10px 10px 20px 10px;
     width: 150px;
     border: 1px solid #BFBFBF;
-    background-color: white;
+    background-color: rgb(184, 74, 74);
     z-index: 2;
     font-size: 0.7em;
     -webkit-box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
@@ -72,7 +72,7 @@ a img {
     line-height: 1.9;
 }
 .photo-album h1 span {
-    background-color: white;
+    background-color: rgb(133, 58, 143);
     font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
     padding: 0.4em 0.8em 0.3em 0.8em;
     -webkit-box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
